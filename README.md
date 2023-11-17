@@ -1,2 +1,2 @@
-![Header](https://github.com/AllInOpenSource/AllIn-Africa/blob/9b7e435d1b2e7bf129ee2eab280ac8ac576983af/Allin-Header%20(2).png)
+![Header](https://github.com/AllInOpenSource/AllIn-Africa/blob/ec0f6fff3f39a47906dcf95395618078356b6ccb/All-in-Africa-Header.png)
 # AllIn-Africa
